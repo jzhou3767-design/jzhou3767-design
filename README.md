@@ -2,8 +2,8 @@
 
 # 你好，我是 jzhou3767-design 👋
 
-**计算机科学本科生** · 专注于人工智能、HPC 与气象 AI 的交叉方向
-目前正在准备海外硕士申请
+**NUIST 计算机科学与技术专业本科生** · 专注于人工智能、HPC 与气象 AI 的交叉方向
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-jzhou3767--design-181717?style=flat-square&logo=github)](https://github.com/jzhou3767-design)
 
