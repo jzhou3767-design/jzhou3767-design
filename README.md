@@ -12,7 +12,7 @@ Computer Science and Technology undergraduate at NUIST, interested in the inters
 
 ---
 
-## 🌪️ 项目贡献 · Project Contributions
+## 项目贡献 · Project Contributions
 
 > 以下链接指向项目的原始仓库。我以贡献者（contributor）身份参与项目，并非这些仓库的所有者。  
 > The links below point to the original repositories. I contributed to these projects; I do not own the repositories.
@@ -29,7 +29,7 @@ Computer Science and Technology undergraduate at NUIST, interested in the inters
 
 ---
 
-## 🔧 技术方向 · Technical Interests
+## 技术方向 · Technical Interests
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Computer Science and Technology undergraduate at NUIST, interested in the inters
 
 ---
 
-## 📊 GitHub 统计 · GitHub Stats
+## GitHub 统计 · GitHub Stats
 
 <div align="center">
 
